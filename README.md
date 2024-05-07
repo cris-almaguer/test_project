@@ -33,7 +33,7 @@ Sigue estos pasos para instalar y configurar tu entorno de desarrollo local:
 Clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/cris-almaguer/test_project/
 ```
 
 **Instalación de dependencias y arranque del proyecto backend (Spring Boot)**
@@ -89,6 +89,9 @@ _Usuario Almacenista_
 almacenista@test.com
 test@2024
 ```
+
+> [!IMPORTANT]
+> Es necesario asegurarse de que el proyecto de backend en Spring se ejecute en el puerto **8080** esto para evitar inconvenientes en la comunicación de los proyectos.
 
 **Instalación de dependencias y arranque del proyecto frontend (React TS)**
 
