@@ -105,7 +105,7 @@ npm install
 Arrancar el servidor
 
 ```bash
-  npm run dev
+npm run dev
 ```
 > [!IMPORTANT]
 > Es importante mencionar que es necesario asegurarse de que el proyecto de frontend en Vite se ejecute con la URL **http://localhost:5173/** esto para evitar inconvenientes con el CORS desde el proyecto de backend en Spring Boot.
