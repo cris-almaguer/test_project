@@ -5,6 +5,10 @@ Este es un proyecto de aplicación web que utiliza Spring Boot y Spring Security
 
 Es importante mencionar que se hace uso de la autenticación de usuarios mediante JSON Web Tokens para otorgar un sistema robusto y seguro. 
 
+En el siguiente link, se puede visualizar un video demo de la aplicación en ejecución.
+
+**https://youtu.be/iRO2PtgqEeI**
+
 
 ## Comenzando
 
@@ -17,8 +21,6 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 - Maven (v3.9.6 o superior)
 - Node.js (v20 o superior)
 - MySQL (v8)
-- npm
-- Git
     
 > [!WARNING]
 > Es importante cumplir con los prerrequisitos para asegurar que el proyecto funcione sin inconvenientes.
